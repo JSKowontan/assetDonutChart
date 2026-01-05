@@ -46,5 +46,10 @@
         { "name": "equities", "type": "number", "description": "Value 2" }
       ]
     }
+  },
+  "events": {
+    "onDonutClick": {
+      "description": "Triggered when a donut is clicked"
+    }
   }
 }
