@@ -7,7 +7,7 @@
   "vendor": "autodeck.com",
   "eula": "autodeck.com",
   "license": "MIT",
-  "icon": "",
+  "icon": "https://cdn.jsdelivr.net/gh/JSKowontan/assetDonutChart@main/donutChartIcon.png",
   "imports": [
     "datasource",
     "planning-model"
@@ -16,15 +16,15 @@
     {
       "kind": "main",
       "tag": "asset-donut-chart",
-      "url": "https://cdn.jsdelivr.net/gh/JSKowontan/periodBarChart@e50685538b09d642e2783716f83782725e706df7/periodBarChart.js",
-      "integrity": "sha256-IVrOoRRuhB3A0z7VDz3enEy+9ljwb1a3tkjF5sVCAqA=",
+      "url": "https://cdn.jsdelivr.net/gh/JSKowontan/assetDonutChart@e456dc3d0885f75639177f4ec5ce36da65fab180/assetDonutChart.js",
+      "integrity": "sha256-fiw9mxvf8HLrUkPsoEBHy4wGWYbfvolTQidCf4QW9pU=",
       "ignoreIntegrity": false
     },
     {
       "kind": "builder",
       "tag": "asset-donut-builder",
-      "url": "https://cdn.jsdelivr.net/gh/JSKowontan/periodBarChart@e50685538b09d642e2783716f83782725e706df7/periodBarChart.js",
-      "integrity": "sha256-IVrOoRRuhB3A0z7VDz3enEy+9ljwb1a3tkjF5sVCAqA=",
+      "url": "https://cdn.jsdelivr.net/gh/JSKowontan/assetDonutChart@e456dc3d0885f75639177f4ec5ce36da65fab180/assetDonutChart.js",
+      "integrity": "sha256-fiw9mxvf8HLrUkPsoEBHy4wGWYbfvolTQidCf4QW9pU=",
       "ignoreIntegrity": false
     }
   ],
